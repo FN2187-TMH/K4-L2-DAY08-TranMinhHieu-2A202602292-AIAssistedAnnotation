@@ -4,4 +4,7 @@ round,frame_id,object_description,action,reason
 1,frame_0099.jpg,2 xe phía bên phải bị AI gộp chung 1 box,edited,Chia 1 box trùng/gộp thành 2 box riêng biệt ôm sát thân từng xe theo quy tắc
 1,frame_0099.jpg,Xe taxi màu vàng/cam ở làn bên phải trung cảnh,added,AI bỏ sót xe taxi do phần thân xe tối và ít vệt sáng phản chiếu
 1,frame_0099.jpg,Xe SUV màu đen bật đèn pha ở trung cảnh bên trái,accepted,Pre-label gợi ý box ôm sát thân xe chính xác
-1,frame_0107.jpg,
+1,frame_0392.jpg,Xe buýt màu đỏ/trắng ở làn bên phải (xa cảnh),accepted,Pre-label gợi ý box ôm sát thân hai xe buýt chính xác
+1,frame_0392.jpg,Xe ô tô ở mép góc dưới cùng bên trái (bị cắt khung hình),added,Thêm box cho xe cận cảnh mép dưới bị AI bỏ sót do vệt đèn chiếu mạnh
+1,frame_0392.jpg,Xe con ở làn đường,edited,Chỉnh lại box ôm sát thân xe thực tế gạt bỏ phần vệt sáng đèn pha
+1,frame_0392.jpg,Các xe sedan/SUV di chuyển ở trung cảnh làn giữa,accepted,Chấp nhận các pre-label gợi ý chuẩn xác ôm sát thân xe
